@@ -1,0 +1,41 @@
+
+.heading
+{
+font-size: 25px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+width: 100%;
+margin: 0px;
+color: black;
+}
+canvas
+{
+    /* we give the style for canvas */
+    box-shadow: 10px 10px 10px grey;
+    /* We give border radius */
+    border-radius: 20px;
+    margin-top: 35px;
+}
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+.copy_right-footer
+{
+    line-height: 2;
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+}
+
